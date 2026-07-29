@@ -115,8 +115,8 @@ Developed a full-stack recruitment platform connecting blue-collar workers with 
 
 # 📫 Connect With Me
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** kulkarnisayali766@gmail.com
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** www.linkedin.com/in/sayali-kulkarni-86ba48282
 
 ---
