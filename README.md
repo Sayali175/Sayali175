@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayali</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast | Software Developer | Building Intelligent AI Systems
+SOFTWARE DEVELOPER | SOFTWARE ENGINEERING
 </h3>
 
 <p align="center">
